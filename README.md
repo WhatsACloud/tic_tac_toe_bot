@@ -1,5 +1,6 @@
 # tic_tac_toe_bot
  A tic tac toe bot made using a neural network with numpy
+# [demo](https://drive.google.com/file/d/1xfrmZMbKz_yeyzx3ryjn1EoFpZ8l39xk/view?usp=sharing)
 # installation
  ```
  git clone https://github.com/Yumyummyyy/tic_tac_toe_bot.git
