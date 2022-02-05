@@ -13,10 +13,10 @@
  rm -rf tic_tac_toe_bot/
  ```
 # controls
- > space -> select program or place piece ingame
- > q -> exit current scope
- > enter -> runs selected program
- > backspace -> deletes character if changing options
- > typing any letter -> adds the character to the option if it is valid
- > right or left -> toggles between true or false in options
- > use arrow keys to move ingame
+ . space -> select program or place piece ingame
+ . q -> exit current scope
+ . enter -> runs selected program
+ . backspace -> deletes character if changing options
+ . typing any letter -> adds the character to the option if it is valid
+ . right or left -> toggles between true or false in options
+ . use arrow keys to move ingame
