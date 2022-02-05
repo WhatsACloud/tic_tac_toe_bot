@@ -20,3 +20,6 @@
  - typing any letter -> adds the character to the option if it is valid
  - right or left -> toggles between true or false in options
  - use arrow keys to move ingame
+
+# notes
+ It kind of works
