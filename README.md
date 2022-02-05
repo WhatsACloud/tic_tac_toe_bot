@@ -1,11 +1,11 @@
 # tic_tac_toe_bot
  A tic tac toe bot made using a neural network with numpy
 # installation
- git clone https://github.com/Yumyummyyy/tic_tac_toe_bot.git
+ > git clone https://github.com/Yumyummyyy/tic_tac_toe_bot.git
 # usage
- python3 main.py
+ > python3 main.py
 # uninstallation
- rm -rf tic_tac_toe_bot/
+ > rm -rf tic_tac_toe_bot/
 # controls
  space -> select program or place piece ingame
  q -> exit current scope
